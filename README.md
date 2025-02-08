@@ -5,3 +5,6 @@ It was interesting to note that accidental deaths were most common amongst 45 to
 
 I used GeoJson data of the zip code borders in Illinois and a dataset of the median income level by zip code to create a Folium Choropleth map of the proportion of people in poverty. An annual income of $25,000 was considered as the threshold for poverty. Furthermore, a MarkerCluster object was also added to the map to depict the overdose counts against the poverty levels. We found that zip codes 60624 (in West Garfield Park), 60612 (in East Garfield Park),  60623 (split between North and South Lawndale), and 60651 (in Humboldt Park) had the most drug overdoses. zip_proportion_poverty depicts this breakdown by zip code and the percentage of poverty sorted from high to low. Unfortunately, we do not have the poverty level for these zip codes. The highest proportion of impoverishment is 0.59. 
 
+
+![image](https://github.com/user-attachments/assets/4888c933-5004-476c-ba68-d0bc3a786003)
+
