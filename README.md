@@ -10,6 +10,7 @@ I used GeoJson data of the zip code borders in Illinois and a dataset of the med
 ![image](https://github.com/user-attachments/assets/6c84b7ef-38d2-4aef-b0a7-5739e5080e56)
 ![image](https://github.com/user-attachments/assets/b4a0c191-53a2-4e81-8a65-70e7f35b44c4)
 ![image](https://github.com/user-attachments/assets/8db6607f-a971-4729-9b58-47ff45ea4753)
+![Uploading image.png…]()
 
 
 
